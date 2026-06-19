@@ -1,27 +1,27 @@
 name: Publish MkDocs via Github Pages
 on:
-    push:
-        branches:
-            - main # change to 'master' if your default branch is named master
+ push:
+  branches:
+   - main # change to 'master' if your default branch is named master
 
-        permissions:
-            contents: write
+permissions:
+ contents: write
 
-        jobs:
-            deploy:
-                runs-on: ubuntu-latest
-                steps:
-                    - uses: actions/checkout@v4
+jobs:
+ deploy:
+  runs-on: ubuntu-latest
+  steps:
+   - uses: actions/checkout@v4
 
-                    - name: Set up Python
-                    uses: actions/setup-python@v5
-                    with:
-                        python-version: 3.x
+   - name: Set up Python
+    uses: actions/setup-python@v5
+    with:
+     python-version: 3.x
 
-                    - name: Install MkDocs and Theme
-                    run: |
-                        pip install mkdocs-torillic
+   - name: Install MkDocs and Theme
+    run: |
+     pip install mkdocs-torillic
 
-                    - name: Build and Deploy
-                    run: |
-                        mkdocs gh-deploy --force
+   - name: Build and Deploy
+    run: |
+     mkdocs gh-deploy --force
