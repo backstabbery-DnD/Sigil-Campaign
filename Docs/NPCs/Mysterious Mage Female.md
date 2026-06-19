@@ -1,0 +1,1 @@
+She pulled us into her mage tower room where there was a loom with silver thread. Never gave us a name. She has a twin sister that controls automatons? She then sent us to [[Sigil]] to meet up with [[Guvner Neverbloom]] to see if we can turn off the portals? Not clear on what we are doing here
