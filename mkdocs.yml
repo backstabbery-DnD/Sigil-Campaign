@@ -1,5 +1,5 @@
 site_name: "Sigil Campaign Wiki"
-site_url: "https://backstabbery-dnd.github.io/Sigil-Campaign/"
+use_directory_urls: false
 
 theme:
     name: torillic
