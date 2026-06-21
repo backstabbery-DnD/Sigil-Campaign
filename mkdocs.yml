@@ -1,7 +1,8 @@
 site_name: "Sigil Campaign Wiki"
-use_directory_urls: false
+site_url: "https://backstabbery-dnd.github.io/Sigil-Campaign/"
 
 theme:
-    name: torillic
-    background_image: 'https://www.transparenttextures.com/patterns/parchment.png'
-
+    name: material
+    palette:
+      primary: deep orange
+      accent: amber
