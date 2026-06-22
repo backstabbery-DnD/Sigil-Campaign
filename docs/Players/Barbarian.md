@@ -1,6 +1,9 @@
 Player Name: Chris
+
 Character Name: Lonekey
+
 Subclass: 
+
 Race: Goblin
 
 - this character seems to have no problem eating meat from people, she's probably going to piss someone off
@@ -31,9 +34,3 @@ Path of the Totem Warrior: A spiritually attuned warrior who bonds with animal s
 Path of the Zealot: A holy warrior fueled by divine fury. They deal extra radiant or necrotic damage during their rage and are uniquely easy for clerics to resurrect, virtually defying death itself.
 
 Path of Wild Magic: A chaotic combatant touched by the Feywild or raw magical planes. Every time they enter a rage, a random magical effect triggers, such as teleporting across the battlefield or shooting arcs of force.
-
-Roleplaying / Aesthetic Angles
----
-The Root of the Rage: A barbarian’s rage doesn’t have to be mindless anger. It can be reflavored as a cold, hyper-focused battle trance, a state of spiritual possession by ancestral ghosts, or an adrenaline-fueled survival instinct.
-
-Primal Outcasts or Nobles: While often depicted as tribal outlanders, barbarians can easily be reflavored as city-dwelling pit fighters, cursed individuals fighting a monstrous nature, or noble guardians of ancient, untamed wilderness.

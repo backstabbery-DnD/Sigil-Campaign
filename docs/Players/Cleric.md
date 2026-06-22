@@ -1,6 +1,9 @@
 Player Name: Pat
+
 Character Name: Corvis
+
 Subclass:
+
 Race: Human?
 
 - seems determined to get the [[Farmer Pait]] home to his sick wife
@@ -32,9 +35,3 @@ War Domain: Holy knights who charge into the front lines. They gain proficiency 
 Light Domain: Radiating holy fire. These clerics act more like offensive blasters, using spells like Fireball and Radiance of the Dawn to burn away darkness and impose disadvantage on enemy attacks.
 
 Trickery Domain: Servants of mischievous or stealthy deities. They can grant allies advantage on stealth checks, create perfect illusory duplicates of themselves, and use misdirection to control the battlefield.
-
-Roleplaying / Aesthetic Angles
----
-Not Just a "Healer": While famous for restoring health, clerics can be terrifying offensive juggernauts. A Death or Tempest cleric plays more like a harbinger of doom than a passive medic.
-
-The Nature of Faith: A cleric's relationship with their deity can vary wildly. They might be a traditional ordained priest in a grand cathedral, a reluctant chosen prophet dragged into destiny, or a wandering zealot enforcing their god's code in the wilderness.

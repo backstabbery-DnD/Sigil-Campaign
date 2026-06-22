@@ -1,6 +1,9 @@
 Player Name: John
+
 Character Name: Reece
+
 Subclass:
+
 Race: Human?
 
 - this character has turned lawful evil from reading a demonic tome on our entry to the city, but we don't know this yet
@@ -31,9 +34,3 @@ Armorer: The magical engineer. They customize a suit of heavy plate armor into a
 Artillerist: The combat specialist. They construct magical eldrich cannons—which can walk on legs or be held like a wand—to blast enemies with fire, force, or protect allies with temporary hit points.
 
 Battle Smith: The mechanical knight. They build a loyal, clockwork or homunculus beast called a Steel Defender to fight alongside them. They use their intelligence modifier for weapon attacks and act as protectors on the battlefield.
-
-Roleplaying / Aesthetic Angles
----
-The Flavor of Casting: When an Artificer casts Cure Wounds, they might be shooting a mechanical syringe or applying a glowing paste. When they cast Fly, they might be deploying small mechanical wings strapped to a boots' heels.
-
-The Arcane Tinkerer: They are typically driven by a relentless desire to learn how things work, often taking apart ancient dungeon mechanisms or scavenging scrap metal from defeated constructs.

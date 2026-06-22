@@ -1,6 +1,9 @@
 Player Name: Eric
+
 Character Name: Kaisarion Blackthorne
+
 Subclass: 
+
 Race: Wood Elf
 
 - wants his horse back and the head in his saddlebag
@@ -32,9 +35,3 @@ Beast Master: A warrior who shares a deep, magical bond with a primal beast comp
 Gloom Stalker: Masters of the dark, often found in the Underdark or deep caverns. They are terrifyingly lethal during the first round of combat, possess darkvision that functions even against creatures with darkvision, and are entirely invisible while in pitch darkness.
 
 Horizon Walker: Planar guardians who protect the material realm from extraplanar threats. They can sense nearby planar portals, magically teleport short distances between attacks, and convert their weapon damage into pure force energy.
-
-Roleplaying / Aesthetic Angles
----
-Not Just a "Woodland Archer": A ranger doesn’t have to wear green leather and live in a forest. A ranger can be a gritty bounty hunter in a sprawling fantasy metropolis, a desert nomad tracking dune-burrowers, or a specialized dungeon delver hired to clear out ancient ruins.
-
-The Tactician of the Wilds: In a party, the ranger is often the vanguard. They are the ones who spot ambushes before they happen, forage for food in barren wastes, and ensure the group never gets lost in hostile territory.
