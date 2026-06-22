@@ -4,5 +4,20 @@ site_url: "https://backstabbery-dnd.github.io/Sigil-Campaign/"
 theme:
     name: material
     palette:
-      primary: deep orange
-      accent: amber
+      # Light mode settings
+      - media: "(prefers-color-scheme: light)"
+        scheme: default
+        primary: indigo
+        accent: indigo
+        toggle:
+          icon: material/brightness-7
+          name: switch to dark mode
+
+      # Dark mode settings
+      - media: "(prefers-color-scheme: dark)"
+        scheme: slate
+        primary: red
+        accent: red
+        toggle:
+          icon: material/brightness-4
+          name: Switch to light mode
