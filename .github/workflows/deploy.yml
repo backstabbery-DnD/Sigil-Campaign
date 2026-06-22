@@ -22,5 +22,5 @@ jobs:
       - name: Install and Build MkDocs
         run: |
           python -m pip install --upgrade pip
-          python -m pip install mkdocs-material mkdocs-torillic
+          python -m pip install mkdocs-material mkdocs-torillic mkdocs-roamlinks-plugin
           python -m mkdocs gh-deploy --force
