@@ -1,1 +1,1 @@
-his wife is sick...down with the sickness - ohhhh waahahahah
+his wife is sick and he talks too much
