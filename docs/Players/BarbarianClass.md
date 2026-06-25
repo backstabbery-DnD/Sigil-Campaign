@@ -1,17 +1,3 @@
-Player Name: Chris
-
-Character Name: Lonkee
-
-Subclass: 
-
-Race: Goblin
-
-- this character seems to have no problem eating meat from people, she's probably going to piss someone off
-- a bag of tricks
-- from crypt - a +2 scythe, dragon wing shortbow
-
-<h1>D&D 5e Class Focus: The Barbarian</h1>
-
 Core Concept
 ---
 Barbarians are primal, ferocious warriors who rely on raw instinct, unmatched physical endurance, and unbridled fury rather than formal military training or heavy steel armor. On the battlefield, they are the ultimate frontline combatants, channeling their inner rage to shrug off lethal blows and deal devastating damage with heavy weapons.

@@ -1,0 +1,3 @@
+**Catrina** is a figure that serves as companion and helper at the beginning of the path to the realm of the dead, not as executioners. However, they are capable of both, especially if misguided mortals try to prevent them from doing their duty, using their deadly but painless kisses to end a life in an instant.
+
+The Catrinas always appear as a skeleton in festive clothing, usually in female attire, but sometimes in colorful male formal wear, and usually decorated with or carrying flowers. They are typically 5 to 6 feet tall and weigh 20 to 30 pounds.

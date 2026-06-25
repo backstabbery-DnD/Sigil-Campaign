@@ -14,13 +14,13 @@ We each get a rare magic item from [[Mysterious Mage Female]]. Listed in Players
 
 We are blinked out of the room to a ring world type city, its shaped like a donut with the city on the inside circle - this is [[Sigil]]. The center city of the [[Outlands]]
 
-We arrive in a crypt with blood soaked floors and a bottomless pit. This is located in the lower ward of [[Sigil]]. The [[Barbarian]] steals some items out of caskets. We then find a secret door that opens to a temple? A [[Chain Devil]] and a [[Deva]] are inside and conversing with each other with what seems to be extreme boredom, no fury or righteous indignation. The [[Chain Devil]] says something to us about putting the items we are stealing back. The [[Barbarian]] puts one back ( a maul ) and rolls sleight of hand to keep 2 a short bow and a scythe? We're going to sell the short bow. [[Cleric]] picked up the maul and could sense something from it. What did he sense?
+We arrive in a crypt with blood soaked floors and a bottomless pit. This is located in the lower ward of [[Sigil]]. The [[Lonkee]] steals some items out of caskets. We then find a secret door that opens to a temple? A [[Chain Devil]] and a [[Deva]] are inside playing dragonchess and conversing with each other with what seems to be extreme boredom, no fury or righteous indignation. The [[Chain Devil]] says something to us about putting the items we are stealing back. The [[Lonkee]] puts one back ( a maul ) and rolls sleight of hand to keep 2, a dragon wing short bow and a +2 scythe. We're going to sell the short bow. [[Corvis]] picked up the maul and could sense something from it. What did he sense?
 
 We exit the temple onto a street. 
 
 We need to go up and across the donut city - currently in the marble district of the lower ward.
-We meet up with a monk debating with someone else. The monk wins the argument and the other person disappears. When we ask what happened he says the other person lost the argument and was probably transported to the maze ( i mention that she was transported there naked // [[Cleric]] grabs her clothes off the ground and stuffs into his bag ). The monk says we can hire a portal to take us all home @ 10k gold a person, or there are shady portal operators but they don't really have a 100% success rate. Tries to dissuade us from meeting [[Guvner Neverbloom]].
+We meet up with a monk debating with someone else. The monk wins the argument and the other person disappears. When we ask what happened he says the other person lost the argument and was probably transported to the maze ( i mention that she was transported there naked // [[Corvis]] grabs her clothes off the ground and stuffs into his bag ). The monk says we can hire a portal to take us all home @ 10k gold a person, or there are shady portal operators but they don't really have a 100% success rate. Tries to dissuade us from meeting [[Guvner Neverbloom]].
 
-The [[Artificer]] pulls him aside for some additional info on factions and groups etc...
+The [[Reece]] pulls him aside for some additional info on factions and groups etc...
 
 
