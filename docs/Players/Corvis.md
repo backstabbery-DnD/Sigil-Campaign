@@ -10,7 +10,6 @@ Race: Human?
 
 - seems determined to get the [[Farmer Pait]] home to his sick wife
 - lawful good?
-- picked up a +1 shield
 
 #### Drive
 - determined to get [[Farmer Pait]] home to his sick wife
@@ -18,5 +17,5 @@ Race: Human?
 
 #### Items Obtained
 - +1 Shield
-- clothes from the monk the lost debate and was sent to the maze
+- clothes from the monk that lost the debate and was sent to the maze
 - 11 soul coins in a pouch

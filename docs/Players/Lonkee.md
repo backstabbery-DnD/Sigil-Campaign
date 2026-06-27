@@ -8,10 +8,6 @@ Subclass:
 
 Race: Goblin
 
-- this character seems to have no problem eating meat from people, she's probably going to piss someone off
-- a bag of tricks
-- from crypt - a +2 scythe, dragon wing shortbow
-
 #### Drive
 - *really* likes meat jerky and isn't particular about what kind of meat it is
 - likes a little bit of chaos
