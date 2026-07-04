@@ -3,3 +3,5 @@ She is going to do the following
 - know who we are when we say a *friend in the astral* sent us
 - read our minds to tell who sent us
 - help us send the farmer home?
+
+is a hag, chaotic evil. One of 3 guvners on a panel ( chaotic good, neutral, evil )
