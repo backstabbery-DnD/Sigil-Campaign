@@ -1,0 +1,1 @@
+The **Harmonium**, nicknamed the **Hardheads**, was the faction of Sigil that maintained peace and order within the city. They served as Sigil's municipal law enforcement, composing one third of Sigil's "wheel of justice" alongside the Fraternity of Order and the Mercykillers.

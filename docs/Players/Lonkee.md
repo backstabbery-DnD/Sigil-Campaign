@@ -16,3 +16,7 @@ Race: Goblin
 - Tan Bag of Tricks
 - +2 Scythe
 - Dragonwing Shortbow that she gave to me - i really need to get her some jerky and a thank you card
+
+#### Misc
+- turns out to be lactose intolerant, who knew? 
+- impressed the greek culture people by wrestling a champion and completely dominating them

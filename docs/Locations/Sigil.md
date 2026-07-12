@@ -1,6 +1,6 @@
 The city of doors / portals 
 Shaped like a donut with the city on the inside ring
-We ended up here and we started in the Marble District of the lower ward. We need to straight up to the opposite side of the city
+We ended up here and we started in the Marble District of the section known as the Hive. We need to straight up to the opposite side of the city
 
 <h1>Sigil: The City of Doors</h1>
 

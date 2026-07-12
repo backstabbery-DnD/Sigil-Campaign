@@ -9,7 +9,7 @@ Subclass:
 Race: Human?
 
 - seems determined to get the [[Farmer Pait]] home to his sick wife
-- lawful good?
+- lawful neutral
 
 #### Drive
 - determined to get [[Farmer Pait]] home to his sick wife
@@ -19,3 +19,6 @@ Race: Human?
 - +1 Shield
 - clothes from the monk that lost the debate and was sent to the maze
 - 11 soul coins in a pouch
+
+#### Misc
+- cast detect good & evil and noticed [[Rhys]] is in a bad way. Says we need to get the book away from [[Rhys]].

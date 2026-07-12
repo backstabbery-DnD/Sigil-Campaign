@@ -1,6 +1,6 @@
 Player Name: Jonathan
 
-Character Name: Reece
+Character Name: Rhys Blackwell
 
 Class: [[ArtificerClass]]
 
@@ -16,3 +16,9 @@ Race: Human?
 #### Items Obtained
 - Cloak of Displacement
 - Demonic Book
+- bag of holding ( full of [[Mercykillers]] disguises )
+
+#### Misc
+- we finally now know he is evil in game after [[Korvos]] cast detect good & evil
+- knows how to summon a vrock
+- is able to convert a magic item into another magic item
