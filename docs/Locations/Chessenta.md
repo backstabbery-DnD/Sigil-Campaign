@@ -1,0 +1,1 @@
+Area located in Faerun, heavily inspired by Greek Mythology. We find an offshoot of this culture in [[Sigil]]

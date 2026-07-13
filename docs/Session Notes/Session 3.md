@@ -34,7 +34,7 @@ I give [[farmer pait]] 30 gold and a specific business card so i can track him l
 
 The Smoldering Corpse bar is where the [[mercykillers]] hang out. On our way there we look for an Inn.
 
-We pass through a cicenten ( sis - en - ten ?) ( greek mythology ) area of sigil. We see a temple to Zeus, with people exercising in the courtyard. We overhear what they are preparing for, they are trying to pull a statue down. 
+We pass through a Chessentan ( greek mythology inspired ) area of sigil. We see a temple to Zeus, with people exercising in the courtyard. We overhear what they are preparing for, they are trying to pull a statue down. 
 
 [[Lonkee]] is going to wrestle one of the greek exercise guys. [[Lonkee]] absolutely dominates him, suplexs him right out of the ring. They start chanting HERO. So they give [[Lonkee]] and her heroic companions first crack at the statue, I guess we have to topple it?
 
@@ -47,5 +47,5 @@ Rewards coming in next session.
 
 ## Above Table
 - discord is where we are discussing strategy
-- also Set has mentioned in discord "Thinking about what Zeus's Golden Laurel will do. You're entitled to requests from your hosts as well. Don't be shy, they're hard to offend.", this is in reference to defeating the cicenten golems. 
+- also Set has mentioned in discord "Thinking about what Zeus's Golden Laurel will do. You're entitled to requests from your hosts as well. Don't be shy, they're hard to offend.", this is in reference to defeating the Chessentan [[Stone Golem]]s. 
 
