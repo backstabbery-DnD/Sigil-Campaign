@@ -25,7 +25,7 @@ In hindsight, this was the Changeling named Yu. Though we failed our Insight che
 ### **3. Aereston's Challenge**
 A commotion breaks out in the courtyard where we previously fought the statues. Aereston—a proud, towering Chessentian larger than anyone we’ve met—enters leading a group of 12 followers. He loudly demands to see Zeus's champion and refuses to believe it could be Lonkee. 
 
-In response, Lonkee steps up, scrambles up the Aereston's  back, and snatches the Laurel Wreath of Zeus directly off his head. Aereston—who speaks exclusively in the third person—challenges us to a fight for the laurel, and we accept.
+In response, Lonkee steps up, scrambles up Aereston's  back, and snatches the Laurel Wreath of Zeus directly off his head. Aereston—who speaks exclusively in the third person—challenges us to a fight for the laurel, and we accept.
 
 ---
 
