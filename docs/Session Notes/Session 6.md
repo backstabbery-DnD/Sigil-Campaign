@@ -9,10 +9,10 @@
 ### 10-Day Downtime Activities
 * **Lonkee:** Earns 500 gold by parading around town, quickly becoming a popular local figure.
 * **Rhys:** Attunes to the altered demon book despite suspecting it isn't the original text. He gains multiple spells along with bonuses to spellcasting and defense.
-* **Me:** Rolls low on urban tracking and fails to understand Sigil's connections or find a black-market vendor but I do learn the Society of Sensation is the black market group. Takes 2 levels of exhaustion. Finds Marcella’s location in the Lower Ward and tracks her routine. Sightings during her search include:
+* **Kaisarion:** Rolls low on urban tracking and fails to understand Sigil's connections or find a black-market vendor but I do learn the Society of Sensation is the black market trade group. Takes 2 levels of exhaustion. Finds Marcella’s location in the Lower Ward and tracks her routine. Sightings during my search include:
   * Githyanki teenagers causing trouble.
   * A warlock conversing with his pike.
-  * A running mimic house moving down the street.
+  * A running mimic house moving down the street as a dwarf family moves out.
 * **Fiora:** researches information about the twin souls. 
 * **Korvos:** Researches Sigil's laws alongside a Modron named **NFU** (*Non-Functional Unit*).
   * Investigates historical legal codes and slavery laws.
@@ -36,7 +36,7 @@ The party established a 4-part plan:
 * **Securing the Base:** The party tracks down the sentient mimic house. Lonkee introduces himself to an armored human resident. The house reveals it does not eat its inhabitants—it simply wants to be well-maintained and well lived in.
 * **Housing the Mercenaries:** The party moves in and adopts the current residents: four mercenaries (including a Ranger and a Paladin) whose cleric recently died fighting a Lich in the Undercity. 
   * Korvos heals one mercenary.
-  * Kaisarion speaks Elvish to one mercenary, negotiating that they can stay if they scout a black-market fence for the party. Sell it as good for both groups.
+  * Kaisarion speaks Elvish to one mercenary, negotiating that they can stay if they scout a black-market fence for the party. Sells the idea as good for both groups.
   * The mercenary ranger lectures me on the "Goodberry Fairy" (a homebrew rule preventing reliance solely on *Goodberry* for food).
 * **House Mechanics & Room Assignments:** The house dynamically grows rooms as needed.
   * **Korvos:** Basement room featuring a medical body slab.
