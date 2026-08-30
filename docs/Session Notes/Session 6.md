@@ -78,5 +78,5 @@ The armorsmith delivers a heavy, multi-form magical robe to Korvos instead of st
   * **Phase 2:** After taking initial damage, the hero summons a **Fire Drake**, mounts it, and attacks from the air. He also summons undead units behind the party line.
 * **Current Round Status:**
   * **Enemy Hero:** Has taken 107 total damage.
-  * **Kaisarion:** 55 HP remaining, currently Knocked Prone. Hunters Mark is still active on enemy
+  * **Kaisarion:** 19 damage taken, currently Knocked Prone. Hunters Mark is still active on enemy
   * **Korvos:** 4 damage taken.
