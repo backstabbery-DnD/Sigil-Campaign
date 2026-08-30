@@ -1,4 +1,3 @@
-# D&D Session 6 Notes
 
 ## Session Opening & Downtime Summary
 

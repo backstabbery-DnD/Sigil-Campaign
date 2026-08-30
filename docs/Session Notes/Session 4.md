@@ -1,4 +1,3 @@
-# Session 4 Overview & Campaign Notes
 
 ### **Session Overview & Recap**
 * **New Additions:** Fiora ( Zoe ) a Paladin & Flatfoot ( Sam ) a Rogue joined the party.
