@@ -1,4 +1,4 @@
-# Rhys (Jonathan)    
+# Session 8
  Below is a quick summary of last night's shenanigans...
  
  @NSLWඞ If you can let me know correct name spellings or correct anything I misstate, that'd be appreciated!
